@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "539390258551",
+    "project_id": "expo-webview",
+    "storage_bucket": "expo-webview.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539390258551:android:5e0e0768c06c003982c572",
+        "android_client_info": {
+          "package_name": "com.ak1103dev.expowebview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "539390258551-j6a65vp78ai789a2bhnoggfbt4r6ijm9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ak1103dev.expowebview",
+            "certificate_hash": "05d51bcd48558f608acc64e90b7922e309d891a1"
+          }
+        },
+        {
+          "client_id": "539390258551-ag2ma5vvgqtjcq2nogggsmum3a7b89rn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk82Ma6fpczHx6xhKpmncTyOdY444F24c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "539390258551-ag2ma5vvgqtjcq2nogggsmum3a7b89rn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
